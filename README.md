@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+#Supporting my online course provider
 
 ## Supporting Scrimba
 
